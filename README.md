@@ -1,3 +1,5 @@
+Python colormaps for the CI (corporate identity) of @BAMresearch.
+
 # Examples / Gallery
 
 ## Viridis colormap using BAM colors
